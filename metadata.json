@@ -1,0 +1,6 @@
+{
+  "name": "MBTI 小人生成器",
+  "description": "根据 MBTI 类型和提示词生成独特的 16personalities 风格小人图像。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
